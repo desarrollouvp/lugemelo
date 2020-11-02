@@ -1,1 +1,1 @@
-https://desarrollouvp.github.io/lugemelo/
+ https://lugemelo.github.io/cv/
